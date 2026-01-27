@@ -1,0 +1,37 @@
+html{
+    font-size: 20px;
+}
+
+.demo:link {
+
+    color: black;
+}
+.demo:visited{
+    color: pink;
+}
+
+.demo:hover{
+    color:hotpink;
+}
+.demo:focus{
+    color: brown;
+}
+
+ul > li:first-child{
+    color: blue;
+}
+ul > li:last-child{
+    color: blueviolet;
+}
+ul > li:nth-child(odd){
+    color: aquamarine;
+}
+ul > li:nth-child(3){
+    color: red;
+}
+form > input:first-of-type{
+    background-color: azure;
+}
+form > input:last-of-type{
+    background-color: antiquewhite;
+}
