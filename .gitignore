@@ -1,0 +1,10 @@
+AppData/
+Downloads/
+Documents/
+Pictures/
+Videos/
+.anaconda/
+.conda/
+.ipynb_checkpoints/
+.vscode/
+.ssh/
